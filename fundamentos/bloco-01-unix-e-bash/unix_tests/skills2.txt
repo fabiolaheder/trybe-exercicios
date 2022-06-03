@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Nome
+Data
+Terminal
+Validade
+Computador
