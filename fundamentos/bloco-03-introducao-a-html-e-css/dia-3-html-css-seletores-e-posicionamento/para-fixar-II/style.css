@@ -10,7 +10,6 @@ div{
     text-align: left;
 
     border-radius: 15px;
-
     }
 
     div h3:nth-child(1){
@@ -31,6 +30,7 @@ div:hover{
     border-style: solid;
     border-width:3px;
     border-color: rgb(202, 13, 54);
+    background-color: brown;
 }
 
 /*cores*/
