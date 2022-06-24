@@ -6,7 +6,7 @@ for(let index = 0; index < numbers.length; index +=1){
         count += 1;
     }
 }
-
+    
 
 if (count === 0){
     console.log("nenhum valor ímpar encontrado");
